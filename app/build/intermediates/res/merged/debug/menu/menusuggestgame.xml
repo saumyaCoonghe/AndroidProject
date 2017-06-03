@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/AboutGame"
+        android:icon="@color/colorAccent"
+        android:title="About Game"
+        />
+    <item android:id="@+id/NumbeerCountGame"
+        android:icon="@color/colorAccent"
+        android:title="Number Count Game"
+        />
+    <item android:id="@+id/LogOut"
+        android:icon="@color/colorAccent"
+        android:title="Log Out" />
+
+</menu>
